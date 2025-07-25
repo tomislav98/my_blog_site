@@ -25,6 +25,7 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 - 📊 Post views and like tracking
 - 🐳 Dockerized development setup
 - 🌐 Optional React frontend
+- :smiley:
 
 ---
 
