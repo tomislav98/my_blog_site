@@ -56,5 +56,16 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 
 ---
 
-## 🐳 Getting Started (Docker)
+### Installing dependencies
+
+It is recommended to use a virtual environment:
+
+```bash
+python -m venv .venv
+source venv/bin/activate  # Linux/macOS
+# or
+.\venv\Scripts\activate   # Windows PowerShell
+
+pip freeze > requirements.txt
+
 
