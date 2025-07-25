@@ -56,7 +56,7 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 
 ---
 
-### Installing dependencies
+### 📦 Installing dependencies
 
 It is recommended to use a virtual environment:
 
