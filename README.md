@@ -29,6 +29,22 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 
 ---
 
+
+
+## ✅ To Do
+
+- [ ] Complete frontend integration
+- [ ] Add automated testing (Pytest, DRF test client)
+- [ ] Add CI/CD with GitHub Actions
+- [ ] Add deployment configuration (Render, Railway, etc.)
+- [ ] Improve API documentation
+- [ ] Add user profile and settings page
+- [ ] Optimize Docker setup for production
+
+
+
+---
+
 ## ⚙️ Tech Stack
 
 - **Backend:** Django, Django REST Framework
