@@ -4,12 +4,17 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 
 ---
 
+[▶️ Watch the demo](assets/demo-hero-page.mp4)
+
+---
+
 ## 🔗 Repositories
 
 | Layer      | Repository                                                                 |
 |------------|----------------------------------------------------------------------------|
 | Backend 🐍 | [MyBlog API (Django)](https://github.com/tomislav98/blog_backend_django.git)     |
 | Frontend ⚛️ | [MyBlog UI (React)](https://github.com/tomislav98/blog_frontend_react.git)     |
+
 
 
 
@@ -67,5 +72,3 @@ source venv/bin/activate  # Linux/macOS
 .\venv\Scripts\activate   # Windows PowerShell
 
 pip freeze > requirements.txt
-
-
