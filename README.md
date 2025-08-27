@@ -4,7 +4,9 @@ A full-featured blog application built with Django, Django REST Framework, Postg
 
 ---
 
-[▶️ Watch the demo](assets/demo-hero-page.mp4)
+## 🎥 Demo
+
+![Demo](assets/demo-hero-page.gif)
 
 ---
 
